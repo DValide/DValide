@@ -26,11 +26,11 @@ Je suis toujours à la recherche de nouvelles opportunités et collaborations, n
 - **Description** : Projet de sensibilisation aux dangers routiers pour les jeunes enfants avec une analyse exploratoire et des prédictions de la gravité des accidents.
 - **Compétences** : Python, Machine Learning, EDA
 
-### [📊 Dashboard d'analyse de ventes de forfaits téléphoniques]
+### [📊 Dashboard d'analyse de ventes de forfaits téléphoniques](https://github.com/DValide/portfolio)
 - **Description** : Analyse des ventes d'une entreprise de télécoms, avec un dashboard interactif Power BI montrant les tendances des ventes par région, produit et période.
 - **Compétences** : Power BI, Analyse de ventes, EDA
 
-### [💡 Machine Learning Supervisé]
+### [💡 Machine Learning Supervisé](https://github.com/DValide/portfolio)
 - **Description** : Prédiction de la consommation énergétique de bâtiments en utilisant plusieurs algorithmes de régression et évaluation des performances.
 - **Compétences** : Scikit-learn, Régression, Feature Engineering
 
