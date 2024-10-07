@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Dolores Valide 
 
-## 🌐 Data Scientist | Data Analyst | Consultante Freelance
+## 🌐 Data Scientist | Consultante Data Freelance
 
 La **data science** me permet de découvrir des insights précieux et d'aider les entreprises à prendre des décisions éclairées. Passionnée par l'**analyse de données**, le **machine learning**, et la **business intelligence**, je travaille sur des projets qui ont un impact tangible.
 
