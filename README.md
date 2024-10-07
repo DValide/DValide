@@ -17,7 +17,7 @@ Je suis toujours à la recherche de nouvelles opportunités et collaborations, n
   - Gestion des bases de données (SQL, PostgreSQL)
 
 ## 📚 Ce que j’apprends
-- **Dbt** : Je suis en train d'approfondir mes compétences sur DBT pour le traitement et l'analyse des données à grande échelle.
+- **Dbt** : Je suis en train d'approfondir mes compétences sur DBT.
 - **Certification Power BI** :En préparation de la certification Microsoft Power BI PL-300.
 
 ## 📊 Projets récents
