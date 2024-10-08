@@ -37,4 +37,10 @@ Je suis toujours à la recherche de nouvelles opportunités et collaborations, n
 ## 📫 Me contacter
 - **LinkedIn** : [Dolores Valide](https://www.linkedin.com/in/d_valide)
 - **Email** : [valide.dolores@gmail.com](mailto:valide.dolores@gmail.com)
-- **Portfolio** : [Portfolio personnel](https://github.com/DValide/portfolio)
+- **Portfolio** : [Portfolio personnel](https://dvalide.github.io/Portfolio_2/)
+
+## Mes publications 
+**Medium :** [Data Science vs. Trading Algorithmique : Un Duel de Titans Technologiques](https://medium.com/@valide.dolores/data-science-vs-trading-algorithmique-un-duel-de-titans-technologiques-0d6acab938b6) 
+
+
+**Medium :** [5 Structures de Données Essentielles pour les Data Scientists et Data Engineers](https://medium.com/@valide.dolores/5-structures-de-donn%C3%A9es-essentielles-pour-les-data-scientists-et-data-engineers-fae5509f4b84)
